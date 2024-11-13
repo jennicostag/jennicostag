@@ -1,8 +1,5 @@
-# 👩🏻‍💻 Jenifher Costa
-
-**`Desenvolvedora Frontend`**
-
-Me chamo Jenifher, tenho 26 anos e sou natural do Rio de Janeiro. Concluí o ensino médio na Faetec. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM e como extensão técnico em Informática para Internet na FAT. 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF44FF&background=56EAFF00&repeat=false&width=435&lines=Jenifher+Costa" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BF44FF&background=56EAFF00&center=true&vCenter=true&repeat=false&width=435&lines=Desenvolvedora+Front+End+Jr" alt="Typing SVG" /></a>
 
 ---
 
