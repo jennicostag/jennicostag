@@ -3,6 +3,11 @@
 
 ---
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Developer&theme=tokyonight)](https://git.io/streak-stats) 
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -83,13 +88,12 @@
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
-  <img 
+ <img 
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    style="padding-right: 10px;" 
+    style="padding-right: 100px;" 
     src="https://github-readme-stats.vercel.app/api?username=jennicostag&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -99,4 +103,5 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennicostag&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
